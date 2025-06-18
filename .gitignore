@@ -1,1 +1,4 @@
-venv_tf_compatible/
+backend/venv_tf_compatible/
+.env
+./backend/.env
+./frontend/.env
